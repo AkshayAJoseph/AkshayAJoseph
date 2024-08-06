@@ -4,13 +4,13 @@
 
 ## My Interests
 
-> Programming: I love coding and have experience in languages like Python, Java, and C. I enjoy solving problems and creating efficient algorithms.
+* Programming: I love coding and have experience in languages like Python, Java, and C. I enjoy solving problems and creating efficient algorithms.
 
-> Web Development: Building websites and web applications is a hobby of mine. I have worked with HTML, CSS, JavaScript, and frameworks like React and Node.js.
+* Web Development: Building websites and web applications is a hobby of mine. I have worked with HTML, CSS, JavaScript, and frameworks like React and Node.js.
 
-> Artificial Intelligence: The potential of AI fascinates me. I am currently learning about machine learning and data science, and I look forward to contributing to this field.
+* Artificial Intelligence: The potential of AI fascinates me. I am currently learning about machine learning and data science, and I look forward to contributing to this field.
 
-> Cybersecurity: Understanding the importance of secure systems, I am keen on learning about ethical hacking and cybersecurity measures.
+* Cybersecurity: Understanding the importance of secure systems, I am keen on learning about ethical hacking and cybersecurity measures.
 
 ## Blog
 I occasionally write about my learning experiences, project updates, and thoughts on the latest trends in technology. Check out my blog for insights and tips!
