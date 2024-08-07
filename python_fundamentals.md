@@ -219,15 +219,15 @@ def function_name(parameters):
 ```
 
 ## Relevance of functions in Programming
-Code Reusability : Functions allow us to define a piece of code once and reuse it in multiple places. This reduces redundancy and helps maintain consistency across our codebase.
+1. Code Reusability : Functions allow us to define a piece of code once and reuse it in multiple places. This reduces redundancy and helps maintain consistency across our codebase.
 
-Modularity : Functions break down complex problems into smaller, manageable pieces. Each function can be focused on a specific task, making it easier to understand and maintain the code.
+2. Modularity : Functions break down complex problems into smaller, manageable pieces. Each function can be focused on a specific task, making it easier to understand and maintain the code.
 
-Abstraction : Functions enable us to abstract away the implementation details. We can use a function without needing to know its internal workings, which simplifies the code we write and enhances readability.
+3. Abstraction : Functions enable us to abstract away the implementation details. We can use a function without needing to know its internal workings, which simplifies the code we write and enhances readability.
 
-Testing and Debugging : Functions allow us to test individual components of our code separately. This isolation helps in identifying and fixing bugs more efficiently.
+4. Testing and Debugging : Functions allow us to test individual components of our code separately. This isolation helps in identifying and fixing bugs more efficiently.
 
-Library Creation : Functions are the building blocks of libraries and modules. By organizing related functions into libraries, we can create reusable components that can be shared and utilized across different projects.
+5. Library Creation : Functions are the building blocks of libraries and modules. By organizing related functions into libraries, we can create reusable components that can be shared and utilized across different projects.
 
 #### Stage 1: Define Functions in a Module
 ```{python}
