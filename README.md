@@ -16,10 +16,10 @@ As a second-year Computer Science and Engineering student, I’m really passiona
 <br/>
 <div align="center">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,c,py,mysql,vercel,vscode" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,c,py,mysql,vscode" alt="skills logos" />
   <br /> 
   <h2>Actively Learning</h3>
-  <img src="https://skillicons.dev/icons?i=py,aws,firebase" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=py,aws" alt="skills actively learning logos">
 </div>
 
 ## Blog
