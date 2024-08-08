@@ -1,6 +1,6 @@
 <h1 align="center">
    
-   Hey there, I'm [Akshay Joseph][WEBSITE] 😎
+   Hey there, I'm [Akshay Joseph][WEBSITE] 
 </h1>
 
 
