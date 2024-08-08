@@ -23,8 +23,8 @@ As a second-year Computer Science and Engineering student, I’m really passiona
 </div>
 
 ## Blog
-I occasionally write about my learning experiences, project updates, and thoughts on the latest trends in technology. Check out my [blog][WEBSITE] for insights and tips!
-[WEBSITE]: https://akshayajoseph.github.io/My-Space/
+<li><a href="https://akshayajoseph.github.io/My-Space/">Click Here!</a></li>
+I occasionally write about my learning experiences, project updates, and thoughts on the latest trends in technology. Check out my blog for insights and tips!
 
 <h2 align="center"> Let's get in touch </h2>
 <div align="center">
