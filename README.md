@@ -2,15 +2,12 @@
    
    Hey there, I'm [Akshay Joseph][WEBSITE] 
 </h1>
- <p align="center">
-    (Click the name for my Website)
- </p>
 
 <br />
 
 <div>
   <p align="center">
-As a second-year Computer Science and Engineering student, I’m really passionate about technology and all the amazing things it can do. My fascination with how things work kicked off my journey into this field, and it’s been an exciting adventure ever since. I love diving into new areas, whether it's coding, exploring software development, or delving into Artificial Intelligence. I’m excited to share what I’m learning and working on with you!
+A Third-year Computer Science and Engineering student, and a developer with a stronger focus on MLOps and DevOps. Eager to contribute to innovative projects and grow as a developer.
  
   </p>
 </div>
