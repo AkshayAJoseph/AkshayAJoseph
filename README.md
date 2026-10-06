@@ -7,7 +7,7 @@
 
 <div>
   <p align="center">
-A Third-year Computer Science and Engineering student, and a developer with a stronger focus on MLOps and DevOps. Eager to contribute to innovative projects and grow as a developer.
+A Fourth-year Computer Science and Engineering student, and a developer with a keen focus on MLOps and DevOps. Eager to contribute to innovative projects and grow as a developer.
  
   </p>
 </div>
