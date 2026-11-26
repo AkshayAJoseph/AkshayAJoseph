@@ -7,7 +7,7 @@
 
 <div>
   <p align="center">
-A Fourth-year Computer Science and Engineering student, and a developer with a keen focus on MLOps and DevOps. Eager to contribute to innovative projects and grow as a developer.
+A Fourth-year Computer Science and Engineering student, and a passionate developer. Eager to contribute to innovative projects and grow as a developer.
  
   </p>
 </div>
@@ -19,10 +19,6 @@ A Fourth-year Computer Science and Engineering student, and a developer with a k
   <h2>Actively Learning</h3>
   <img src="https://skillicons.dev/icons?i=py,aws" alt="skills actively learning logos">
 </div>
-
-## Blog
-<li><a href="https://akshayajoseph.github.io/My-Space/">Click Here!</a></li>
-I occasionally write about my learning experiences, project updates, and thoughts on the latest trends in technology. Check out my blog for insights and tips!
 
 <h2 align="center"> Let's get in touch </h2>
 <div align="center">
